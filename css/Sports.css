@@ -1,0 +1,31 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(120, 235, 6, 0.886), 0 6px 20px 0 rgba(158, 242, 12, 0.886);
+}
+.container form{
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:gold;
+    box-shadow: 0 4px 8px 0 rgba(120, 235, 6, 0.886), 0 6px 20px 0 rgba(158, 242, 12, 0.886);
+}
+.box{
+    width: 750px;
+}
+.container table{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(120, 235, 6, 0.886), 0 6px 20px 0 rgba(158, 242, 12, 0.886);
+}
+.link-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
